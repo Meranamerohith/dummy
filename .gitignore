@@ -1,0 +1,10 @@
+#ignore compiled files
+   *.class
+   *.jar
+   *.classpath
+   *.project
+#ignore log files
+  *.log
+#Ignore directories
+ .settings/
+  build/
